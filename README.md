@@ -1,5 +1,6 @@
-# ColorConverter
+# <img src="https://user-images.githubusercontent.com/64004682/154757110-4c4c0206-27c1-427b-a04e-a070a01b381f.png" alt="icon" width="30"/> ColorConverter
 <p>Компьютекная графика. Лабораторная работа №1.</p>
+
 
 ## Задача
 <p>Изучить цветовые модели: RGB, CMYK, HSV, HLS, XYZ, LAB, переход от одной модели к другой, исследовать цветовой график МКО.</p>
@@ -16,3 +17,14 @@
 
 ## Вариант 18
 <p>CMYK - XYZ - RGB</p>
+
+## Реализация
+<p align="center">
+  <kbd> <img alt="ColorConverter_1" src="https://user-images.githubusercontent.com/64004682/154757203-5722eb51-97fe-444b-9316-79842683c2dd.png" width="1000" style="border-radius:10px"\></kbd> 
+</p>
+<p align="center">
+  <kbd> <img alt="ColorConverter_2" src="https://user-images.githubusercontent.com/64004682/154757263-2e20d93c-c8c6-4b07-9cf6-26bfc5d74a9d.png" width="1000" style="border-radius:10px"\></kbd> 
+</p>
+<p align="center">
+  <kbd> <img alt="ColorConverter_3" src="https://user-images.githubusercontent.com/64004682/154757199-1620e85c-d5a4-422f-9c98-0f92d1daf8a1.png"" width="1000" style="border-radius:10px"\></kbd> 
+</p>
