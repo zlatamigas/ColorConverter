@@ -1,5 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/64004682/154757110-4c4c0206-27c1-427b-a04e-a070a01b381f.png" alt="icon" width="30"/> ColorConverter
-Компьютекная графика. Лабораторная работа №1.
+Компьютерная графика. Лабораторная работа №1.
 
 
 ## Задача
