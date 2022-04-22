@@ -150,7 +150,7 @@ public class ColorMenuController implements Initializable {
                 return;
             }
             double x = newValue.doubleValue();
-            double y = sliderXYZx.getValue();
+            double y = sliderXYZy.getValue();
             double z = sliderXYZz.getValue();
             parameterChangedXYZ(x, y, z);
         });
