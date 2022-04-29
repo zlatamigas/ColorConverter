@@ -1,26 +1,14 @@
 # <img src="https://user-images.githubusercontent.com/64004682/154757110-4c4c0206-27c1-427b-a04e-a070a01b381f.png" alt="icon" width="30"/> ColorConverter
-Компьютерная графика. Лабораторная работа №1.
 
 
-## Задача
-Изучить цветовые модели: RGB, CMYK, HSV, HLS, XYZ, LAB, переход от одной модели к другой, исследовать цветовой график МКО.
+## Description
+Windows App for converting color into different color models: CMYK - XYZ - RGB.
 
-Создать приложение/веб-приложение, позволяющее пользователю выбирать, а затем интерактивно менять цвет, показывая при этом его составляющие в трех моделях одновременно.
+User can type color components (input fields), select colors from the palette (similar to graphic editors), smoothly change colors (sliders).
 
-## На проверку сдаются
-* exe, который должен работать на ПК преподавателя под Windows/веб-приложение, размещенное в общем доступе;
-* исходный код приложения на gitHub;
-* сопроводительная документация.
+When any color component is changed, all other representations of this color in the other two color models are automatically recalculated. In case of “incorrect color” issue the warning is shown.
 
-## Основные требования к приложению
-В интерфейсе дать возможность пользователю задавать точные цвета (поля ввода), выбирать цвета из палитры (аналогично графическим редакторам), плавно изменять цвета (например, ползунки).
-
-При изменении любой компоненты цвета все остальные представления этого цвета в двух других цветовых моделях пересчитываются автоматически. При «некорректных цветах» (например, при переходе из XYZ в RGB в вашем расчете получился выход за границы изменения рассчитываемого параметра) выдавать некое ненавязчивое предупреждение, что происходит обрезание-округление и т.п.
-
-## Вариант 18
-CMYK - XYZ - RGB
-
-## Реализация
+## Realisation
 <p align="center">
   <kbd> <img alt="ColorConverter_1" src="https://user-images.githubusercontent.com/64004682/154757203-5722eb51-97fe-444b-9316-79842683c2dd.png" width="1000" style="border-radius:10px"\></kbd> 
 </p>
