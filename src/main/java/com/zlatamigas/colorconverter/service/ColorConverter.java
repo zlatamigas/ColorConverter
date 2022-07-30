@@ -1,8 +1,6 @@
-package sample.service;
+package com.zlatamigas.colorconverter.service;
 
-import sample.entity.CMYK;
-import sample.entity.RGB;
-import sample.entity.XYZ;
+import com.zlatamigas.colorconverter.entity.*;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

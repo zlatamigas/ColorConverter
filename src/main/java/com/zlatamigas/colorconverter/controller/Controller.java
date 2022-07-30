@@ -1,5 +1,7 @@
-package sample.controller;
+package com.zlatamigas.colorconverter.controller;
 
+import com.zlatamigas.colorconverter.entity.*;
+import com.zlatamigas.colorconverter.service.ColorConverter;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
@@ -9,17 +11,12 @@ import javafx.scene.control.Slider;
 import javafx.scene.control.TextField;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
-import sample.entity.CMYK;
-import sample.entity.RGB;
-import sample.entity.XYZ;
-import sample.service.ColorConverter;
-
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-public class ColorMenuController implements Initializable {
+public class Controller implements Initializable {
 
     @FXML
     public ColorPicker colorPicker;

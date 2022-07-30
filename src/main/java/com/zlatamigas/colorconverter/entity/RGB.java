@@ -1,4 +1,4 @@
-package sample.entity;
+package com.zlatamigas.colorconverter.entity;
 
 public class RGB {
 
